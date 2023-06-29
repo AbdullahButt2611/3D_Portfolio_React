@@ -11,3 +11,6 @@ logo.com
 
 
 npm install --legacy-peer-deps -D postcss autoprefixer 
+
+
+npm install --legacy-peer-deps three
